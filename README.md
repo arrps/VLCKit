@@ -1,5 +1,4 @@
 # VLCKit
-<<<<<<< HEAD
 
 VLCKit is a generic library for any audio or video playback needs on OS X, iOS and tvOS. It also supports active streaming and media to file conversations on the Mac. It is open-source software licensed under LGPLv2.1 or later, available in source code and binary form from the [VideoLAN website]. You can also integrate MobileVLCKit easily via [CocoaPods].
 
@@ -34,6 +33,3 @@ You can find more documentation on the [VideoLAN wiki].
    [web forum]: <http://forum.videolan.org>
    [freenode]: <http://www.freenode.net/>
    [Freenode Web]: <http://webchat.freenode.net/>
-=======
-Adding Dynamic TV VLCk Kit support.
->>>>>>> 741c513be073d0fc3497f2afdd48b891e1ae1c75
